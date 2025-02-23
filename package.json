@@ -1,8 +1,8 @@
 {
-  "name": "pumpdotfun-sdk",
-  "version": "1.3.2",
+  "name": "@namhihi237/pumpdotfun-sdk",
+  "version": "0.0.1",
   "description": "A simple SDK for interacting with pumpdotfun",
-  
+
   "module": "./dist/esm/index.js",
   "main": "./dist/cjs/index.js",
   "browser": "./dist/browser/index.js",
@@ -20,7 +20,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/rckprtr/pumpdotfun-sdk.git"
+    "url": "https://github.com/namhihi237/pumpdotfun-sdk.git"
   },
   "keywords": [
     "pumpdotfun",
